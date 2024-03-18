@@ -22,7 +22,7 @@ header {
     padding-right: 20px;
 }
 .headliner {
-    background-image: url(header-shapes\ mobile.png);
+    
     background-size: cover;
     background-repeat: no-repeat;
     width: 375px;
@@ -431,3 +431,85 @@ header {
     margin-top: 9px;
     margin-left: 12px;
 }
+.contact{
+    margin-top: 500px;
+    background-image: url(contact\ form\ shapes-mobile@2x.png);
+    color: #6070FF;
+    background-color: #6070FF;
+    width: 375px;
+    height: 650px;
+     
+    border-top-left-radius: 100px;
+}
+.contact-heading{
+    width: 241px;
+    height: 45px;
+     
+    font-family: poppins sans-serif;
+    color: #FFFFFF;
+    padding-left: 93px;
+    padding-top: -6px;
+    font-weight: 700;
+    size: 40px;
+    line-height: 52px;
+    align-items: center;
+
+}
+.contact-des{
+    width: 327px;
+    height: 127px;
+    color: #EBEBFF;
+    font-weight: 400;
+    size: 20px;
+    font-family: poppins sans-serif;
+    line-height: 20px;
+    align-content: center;
+    padding-left: 20px;
+
+}
+#fname{
+    width: 271px;
+    height: 50px;
+    padding-left: 24px;
+       
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: 20px;
+    background-color: #FFFFFF;
+}
+#mail{
+    width: 271px;
+    height: 50px;
+    padding-left: 24px;
+     
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 25px;
+    background-color: #FFFFFF;
+}
+#review{
+    width: 271px;
+    height: 170px
+    ;
+    padding-left: 24px;
+    padding-top: 0px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 25px;
+    background-color: #FFFFFF;
+}
+.submit{
+    width: 142px;
+    height: 48px;
+    margin-left: 20px;
+    border-radius: 8px;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: #FFFFFF;
+}
+.last{
+    margin-left: 100px;
+}
+
